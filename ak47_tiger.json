@@ -1,0 +1,10 @@
+{
+  "ak47_tiger": {
+    "x_pos": 0,
+    "y_pos": 5,
+    "x_delay": 0.021,
+    "frames_start": 3,
+    "frames_mid": 8,
+    "frames_end": 2
+  }
+}
