@@ -1,5 +1,4 @@
-[
-  "recoil_cod.ntx",
-  "spray_valorant.ntx",
-  "BS_macro.ntx"
-]
+{
+  "AK-47 Macro": "https://raw.githubusercontent.com/Jdeedev/uny-perfis/main/ak47.json",
+  "M4A1 Macro": "https://raw.githubusercontent.com/Jdeedev/uny-perfis/main/m4a1.json"
+}
