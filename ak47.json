@@ -1,8 +1,8 @@
 {
   "x_pos": 0,
-  "y_pos": 4,
-  "x_neg": 0,
-  "y_neg": -2,
-  "x_delay": 0.02,
-  "y_delay": 0.025
+  "y_pos": 5,
+  "x_delay": 0.025,
+  "frames_start": 5,
+  "frames_mid": 8,
+  "frames_end": 3
 }
