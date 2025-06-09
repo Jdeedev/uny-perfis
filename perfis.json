@@ -1,4 +1,5 @@
 {
-  "AK-47 Macro": "https://raw.githubusercontent.com/Jdeedev/uny-perfis/main/ak47.json",
-  "M4A1 Macro": "https://raw.githubusercontent.com/Jdeedev/uny-perfis/main/m4a1.json"
+  "AK-47": "https://raw.githubusercontent.com/Jdeedev/uny-perfis/main/ak47.json",
+  "M4A1": "https://raw.githubusercontent.com/Jdeedev/uny-perfis/main/m4a1.json",
+  "HK416": "https://raw.githubusercontent.com/Jdeedev/uny-perfis/main/hk416.json"
 }
