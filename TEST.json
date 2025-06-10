@@ -1,8 +1,8 @@
 {
   "x_pos": 2,
-  "y_pos": 7,
+  "y_pos": 6,
   "x_neg": -2,
-  "y_neg": -7,
+  "y_neg": -6,
   "x_delay": 0.005,
   "y_delay": 0.005,
   "loop": true
