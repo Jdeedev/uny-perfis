@@ -5,5 +5,6 @@
   "y_neg": -6,
   "x_delay": 0.005,
   "y_delay": 0.005,
-  "loop": true
+  "loop": true,
+  "click_each": true
 }
