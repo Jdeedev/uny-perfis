@@ -1,0 +1,9 @@
+{
+  "x_pos": 0,
+  "y_pos": 9,
+  "x_neg": 0,
+  "y_neg": -9,
+  "x_delay": 0.00,
+  "y_delay": 0.025,
+  "loop": true
+}
